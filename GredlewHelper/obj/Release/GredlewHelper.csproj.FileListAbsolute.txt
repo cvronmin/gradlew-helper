@@ -1,0 +1,15 @@
+c:\users\ryan\documents\visual studio 2013\Projects\GradlewHelper\GredlewHelper\obj\Release\App.g.cs
+c:\users\ryan\documents\visual studio 2013\Projects\GradlewHelper\GredlewHelper\obj\Release\GredlewHelper.csproj.GenerateResource.Cache
+c:\users\ryan\documents\visual studio 2013\Projects\GradlewHelper\GredlewHelper\obj\Release\GredlewHelper.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\GradlewHelper\GredlewHelper\bin\Release\GradlewHelper.exe.config
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\GradlewHelper\GredlewHelper\bin\Release\GradlewHelper.exe
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\GradlewHelper\GredlewHelper\bin\Release\GradlewHelper.pdb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\GradlewHelper\GredlewHelper\obj\Release\GradlewOther.baml
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\GradlewHelper\GredlewHelper\obj\Release\GradlewMain.baml
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\GradlewHelper\GredlewHelper\obj\Release\GradlewOther.g.cs
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\GradlewHelper\GredlewHelper\obj\Release\GradlewMain.g.cs
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\GradlewHelper\GredlewHelper\obj\Release\GradlewHelper_MarkupCompile.cache
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\GradlewHelper\GredlewHelper\obj\Release\GradlewHelper.g.resources
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\GradlewHelper\GredlewHelper\obj\Release\GradlewHelper.Properties.Resources.resources
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\GradlewHelper\GredlewHelper\obj\Release\GradlewHelper.exe
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\GradlewHelper\GredlewHelper\obj\Release\GradlewHelper.pdb

@@ -1,0 +1,11 @@
+﻿<Window x:Class="GredlewHelper.GradlewOther"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Run Command..." Height="82" Width="510" ResizeMode="CanMinimize">
+    <Grid>
+        <TextBox x:Name="txtboxArg" Margin="70,10,92,10" TextWrapping="Wrap"/>
+        <Button x:Name="butProcess" Content="Process" Margin="417,10,10,10" Click="butProcess_Click"/>
+        <Label x:Name="lblGra" Content="gradlew" HorizontalAlignment="Left" Margin="10,10,0,0" Height="25" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
